@@ -93,8 +93,8 @@
         ctx.fillRect(d.x - 50, d.y - 50, 100, 100);
     }
     function animate() {
-        //requestAnimationFrame(animate);
-        setTimeout(animate, 1000/60);
+        requestAnimationFrame(animate);
+        //setTimeout(animate, 1000/60);
         render();
     }
     animate();
