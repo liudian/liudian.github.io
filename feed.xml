@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-11-01T22:51:18+08:00</updated><id>//</id><title type="html">重剑无锋 大巧不工</title><subtitle>编程那些事</subtitle><entry><title type="html">编程之道</title><link href="/2016/11/01/tao-of-programming.html" rel="alternate" type="text/html" title="编程之道" /><published>2016-11-01T10:32:27+08:00</published><updated>2016-11-01T10:32:27+08:00</updated><id>/2016/11/01/tao-of-programming</id><content type="html" xml:base="/2016/11/01/tao-of-programming.html">&lt;h1 id=&quot;section&quot;&gt;第一篇 静寂的空宇&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-11-01T23:06:32+08:00</updated><id>//</id><title type="html">重剑无锋 大巧不工</title><subtitle>编程那些事</subtitle><entry><title type="html">编程之道</title><link href="/2016/11/01/tao-of-programming.html" rel="alternate" type="text/html" title="编程之道" /><published>2016-11-01T10:32:27+08:00</published><updated>2016-11-01T10:32:27+08:00</updated><id>/2016/11/01/tao-of-programming</id><content type="html" xml:base="/2016/11/01/tao-of-programming.html">&lt;h1 id=&quot;section&quot;&gt;第一篇 静寂的空宇&lt;/h1&gt;
 
-&lt;p&gt;编程大师如是说： “当你有本事夺走我手中的这块水晶石时，就是你出师的时侯了。”&lt;/p&gt;
+&lt;p&gt;编程大师如是说： &lt;em&gt;“当你有本事夺走我手中的这块水晶石时，就是你出师的时侯了。”&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;1.1 在静寂的空宇里，一种神奇的物质形成并诞生了。它立刻便静止了，独自守侯着，豪无动静，然而又处于永恒的运动之中。它是所有程序的源头，我不知道它的名字，所以我将称它为编程之道。如果此道是完美的，那些操作系统就是完美的，如果操作系统是完美的，那么编译程序就是完美的,如果编译程序是完美的，那么应用程序就是完美的。用户满意之至－－和谐便应运而生。编程之道流逝远去，又乘着晨风而归。&lt;/p&gt;
 
@@ -10,7 +10,7 @@
 
 &lt;h1 id=&quot;section-1&quot;&gt;第二篇 古代的大师&lt;/h1&gt;
 
-&lt;p&gt;编程大师如是说： “倘若三天不编程，生活将变得毫无意义。”&lt;/p&gt;
+&lt;p&gt;编程大师如是说： &lt;em&gt;“倘若三天不编程，生活将变得毫无意义。”&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;2.1 老一辈的程序员是神秘的、深奥的。我们没法揣摩他们的想法，我们所能做的只是描述一下他们的表象。他们是清醒的，就像一只游过水面的狐狸；他们是警惕的，就像一位战场上的将军；他们是友善的，就像一位招待客人的女主人；他们是简单的，就像未经刻凿的木头；他们还是难以琢磨的，就像黑暗的洞穴中漆黑的池水。谁能说出他们心中的秘密？答案只存在于道中。&lt;/p&gt;
 
@@ -22,7 +22,7 @@
 
 &lt;h1 id=&quot;section-2&quot;&gt;第三篇 设计&lt;/h1&gt;
 
-&lt;p&gt;编程大师如是说： “当程序被测试时，再修改设计方案就太迟了。”&lt;/p&gt;
+&lt;p&gt;编程大师如是说： &lt;em&gt;“当程序被测试时，再修改设计方案就太迟了。”&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;3.1 曾经有个人去参加一次电脑展示会，每天当他进入展馆时，都对门卫说： “我是个大盗，我偷盗的本领是出了名的。事先警告你，这次展示会也在劫难逃。” 这番话让门卫坐立不安，因为里面有价值数百万美元的电脑设备，所以他紧紧地盯住这个人。但这个人只是从一个展摊逛到另一个展摊，嘴里轻轻地哼着小曲。当这个人出门时，门卫把他拉到一边，搜查他的衣服，但一无所获。第二天，这个人又来了，并对着门卫嚣张地嚷着：“昨天我满载而归，但今天的收获会更大。”于是，门卫盯他盯得更紧了，但仍一无所获。在展示会的最后一天，门卫再也抑制不住自己的好奇心了。“大盗先生，”门卫说，“我被你搞糊涂了，实在想不明白。请告诉我，你究竟在偷什么？” 这个人笑了。“我在偷想法。”他说。&lt;/p&gt;
 
@@ -34,7 +34,7 @@
 
 &lt;h1 id=&quot;section-3&quot;&gt;第四篇 编码&lt;/h1&gt;
 
-&lt;p&gt;编程大师如是说： “一个写得完美的程序是其自身的天堂，而一个写得糟糕的程序则是其自身的地狱。”&lt;/p&gt;
+&lt;p&gt;编程大师如是说： &lt;em&gt;“一个写得完美的程序是其自身的天堂，而一个写得糟糕的程序则是其自身的地狱。”&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;4.1 一个程序应当是轻盈的、灵活的，它的子程序就像一串珍珠一样连接着。它的精神和意图应该贯穿始终。在程序中，内容既不应太多，也不应太少；既不应该有不需要的循环结构，也不该有冗余的变量；既不缺乏结构性，又不过分僵化。一个程序，无论多么复杂，都应该以一个整体的方式运行。程序应以其内在的逻辑为指引，而非外在形态。如果一个程序不能达到这些要求，它将处于一种杂乱无章的混淆不清的状态。唯一的方法就是重写这个程序。&lt;/p&gt;
 
@@ -46,7 +46,7 @@
 
 &lt;h1 id=&quot;section-4&quot;&gt;第五篇 维护&lt;/h1&gt;
 
-&lt;p&gt;编程大师如是说： “即使一个程序只有三行长，总有一天它也不得不需要维护。”&lt;/p&gt;
+&lt;p&gt;编程大师如是说： &lt;em&gt;“即使一个程序只有三行长，总有一天它也不得不需要维护。”&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;5.1 一记扇经常开启的门的绞链不需要润滑油。一条湍急的河流不会变得污浊。无论是声音还是想法都不可能在真空中传播。软件如果不用就会腐朽。这世界真奇妙。&lt;/p&gt;
 
@@ -58,7 +58,7 @@
 
 &lt;h1 id=&quot;section-5&quot;&gt;第六篇 管理&lt;/h1&gt;
 
-&lt;p&gt;编程大师如是说： “让程序员多而经理少－－然后生产效率就会高。”&lt;/p&gt;
+&lt;p&gt;编程大师如是说： &lt;em&gt;“让程序员多而经理少－－然后生产效率就会高。”&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;6.1 当经理们没完没了地开会时，程序员就写些游戏玩；当财务主管们谈到季度利润时，开发用的预算马上就要被削减；当资深科学家们谈论蓝蓝的天空时，马上就会风起云涌。其实，这并不是编程之道。当经理们忠于职守时，游戏程序就会被搁置到一边；财务主管们制订出长远的计划时，和谐秩序将很快恢复；当资深科学家们着手于眼前的问题时，这些问题不久就会解决。其实，这才是编程之道。&lt;/p&gt;
 
@@ -70,7 +70,7 @@
 
 &lt;h1 id=&quot;section-6&quot;&gt;第七篇 公司里的学问&lt;/h1&gt;
 
-&lt;p&gt;编程大师如是说： “你可以向一位公司总裁演示一个程序，但你无法使他学会使用电脑。”&lt;/p&gt;
+&lt;p&gt;编程大师如是说： &lt;em&gt;“你可以向一位公司总裁演示一个程序，但你无法使他学会使用电脑。”&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;7.1 一位初学者问大师：“在东方（此处喻指美国的东海岸，有许多大公司的总部－－译注），有一个不寻常的树状结构，人们称它为‘公司总部’。它的副总裁们和财务主管们的数量之大，使它鼓得不成开关。它签发大师的便函，每份上都写着”归去”“来兮”，却没有人知道那是什么意思。它的那些分支机构每年都要换新的名字，但都毫无价值。如此一个不正常的实体怎么能继续存在呢？” 大师回答说：“你探察这个庞大的邓因其没有合理的用途而心神不定。难道你不能从它那无尽的回旋中得到乐趣吗？你不会享受一下在它所蔽护的部分里的编程的那种无忧无虑的轻松吗？你为什么要因为它毫无用处而心烦意乱呢？”&lt;/p&gt;
 
@@ -82,7 +82,7 @@
 
 &lt;h1 id=&quot;section-7&quot;&gt;第八篇 硬件和软件&lt;/h1&gt;
 
-&lt;p&gt;编程大师如是说： “没有风，草儿静止不动；没有软件，硬件则无所为用。”&lt;/p&gt;
+&lt;p&gt;编程大师如是说： &lt;em&gt;“没有风，草儿静止不动；没有软件，硬件则无所为用。”&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;8.1 一位初学者问大师：“我觉察到有一家电脑公司比其它所有的公司都要大得多。它在中遥遥领先，就如同鹤立鸡群一般。它的任意一个部门都可以组成一个完整的企业。这是为什么呢？” 大师回答说：“你怎么问这么愚蠢的问题呢？因为那家公司大，所以它就大嘛。如果它仅仅生产硬件，没人愿买；如果它仅仅生产软件，没人愿用；如果它仅仅维护一下系统，人们将把它当作是佣人。然而，因为它把所有这些东西都结合了起来，它便摇身一变，被人们看作是诸神之一。不费吹灰之力，它便能取胜。&lt;/p&gt;
 
@@ -94,4 +94,4 @@
 
 &lt;h1 id=&quot;section-8&quot;&gt;第九章 尾声&lt;/h1&gt;
 
-&lt;p&gt;编程大师如是说： “现在该是你出师的时侯了。”&lt;/p&gt;</content><summary type="html">第一篇 静寂的空宇</summary></entry></feed>
+&lt;p&gt;编程大师如是说： &lt;em&gt;“现在该是你出师的时侯了。”&lt;/em&gt;&lt;/p&gt;</content><summary type="html">第一篇 静寂的空宇</summary></entry></feed>
